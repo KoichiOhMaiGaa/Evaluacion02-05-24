@@ -31,7 +31,7 @@ body {
     width: 350px;
     display: flex;
     flex-direction: column;
-    background-image: url(/img/fondo.png);
+    background-image: url(../img/fondo.jpg);
     align-items: center;
     border: solid 10px black;
     border-radius: 15px;
